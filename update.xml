@@ -1,0 +1,42 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+	
+    <update> 
+        <version>1.6.0.0</version> 
+        <url>https://varian-my.sharepoint.com/:u:/p/jwolf/EZJIdXiauMtKvVIiL3zQIdMB031TO2q2Zgr5NYpSHhB4KQ?e=uqlxCS</url> 
+        <filePath>SAP_NET_App.exe</filePath>
+        <md5>89C2CFF8CA207363A2A449A1E71200FA</md5>
+        <description>Update: 10/06/2018:1. Updated a label.</description> 
+        <launchArgs></launchArgs> 
+    </update>
+
+	<!--
+    <update> 
+        <version>1.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/SharpUpdate.dll</url> 
+        <filePath>./SharpUpdate.dll</filePath>
+        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
+        <description>Update: 10/06/2018:
+        1. Support for multiple files updating.</description> 
+        <launchArgs></launchArgs> 
+    </update>
+	-->
+	
+    <add> 
+        <version>1.6.0.0</version> 
+        <url>C:\Users\jwolf\OneDrive - Varian Medical Systems\SAP VPS Tools Update Server\New Bitmap Image.bmp</url> 
+        <filePath>./test_add/New Bitmap Image.bmp</filePath>
+        <md5>D41D8CD98F00B204E9800998ECF8427E</md5>
+        <description>Add: 10/06/2018:
+        1. Test add.</description> 
+        <launchArgs></launchArgs> 
+    </add>
+	<!--
+    <remove>
+        <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
+        <description>Remove: 10/06/2018:
+        1. Test remove.</description> 
+        <launchArgs></launchArgs> 
+    </remove>
+	-->
+</sharpUpdate>
