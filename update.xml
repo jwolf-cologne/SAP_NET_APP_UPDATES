@@ -3,7 +3,7 @@
 	
     <update> 
         <version>1.6.0.0</version> 
-        <url>https://varian-my.sharepoint.com/:u:/p/jwolf/EZJIdXiauMtKvVIiL3zQIdMB031TO2q2Zgr5NYpSHhB4KQ?e=uqlxCS</url> 
+        <url>https://raw.githubusercontent.com/jwolf-cologne/SAP_NET_APP_UPDATES/master/SAP_NET_App.exe</url> 
         <filePath>SAP_NET_App.exe</filePath>
         <md5>89C2CFF8CA207363A2A449A1E71200FA</md5>
         <description>Update: 10/06/2018:1. Updated a label.</description> 
